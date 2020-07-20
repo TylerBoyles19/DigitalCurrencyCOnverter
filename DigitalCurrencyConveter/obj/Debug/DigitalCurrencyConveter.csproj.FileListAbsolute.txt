@@ -1,0 +1,7 @@
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\bin\Debug\DigitalCurrencyConveter.exe.config
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\bin\Debug\DigitalCurrencyConveter.exe
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\bin\Debug\DigitalCurrencyConveter.pdb
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\obj\Debug\DigitalCurrencyConveter.csprojAssemblyReference.cache
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\obj\Debug\DigitalCurrencyConveter.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\obj\Debug\DigitalCurrencyConveter.exe
+C:\Users\student\OneDrive\Documents\Visual Studio 2017\Projects\11_PMFD\DigitalCurrencyConveter\DigitalCurrencyConveter\obj\Debug\DigitalCurrencyConveter.pdb
